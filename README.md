@@ -1,2 +1,2 @@
 # ecommerce-db-proj
-ecommerce database project
+ecommerce database project (eskwelabs)
